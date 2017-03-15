@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\build\\intermediates\\res\\merged\\release\\drawable-v21\\mdtp_material_button_background.xml",
+        "source": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\src\\main\\res\\drawable-v21\\mdtp_material_button_background.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\build\\intermediates\\res\\merged\\release\\drawable-v21\\mdtp_material_button_selected.xml",
+        "source": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\src\\main\\res\\drawable-v21\\mdtp_material_button_selected.xml"
+    }
+]

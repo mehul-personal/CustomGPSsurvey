@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#414c59</color>
+    <color name="colorPrimaryDark">#414c59</color>
+    <color name="colorAccent">#ffc107</color>
+    <color name="hintColor">#f4d166</color>
+    <color name="grayColor">#ededed</color>
+
+    <color name="backgroung_image_overlay_color">#CC0f121b</color>
+</resources>

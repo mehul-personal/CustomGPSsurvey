@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="100dp"
+            android:padding="5dp" android:layout_gravity="center"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_form_logo" />
+
+        <TextView
+            android:id="@+id/txvFormName"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center|left"
+            android:paddingLeft="10dp"
+            android:text="@string/str_user_name"
+            android:textColor="#ffffff"
+            android:textSize="32sp" />
+
+
+    </LinearLayout>
+</LinearLayout>

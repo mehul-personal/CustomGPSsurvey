@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_done_background_color.xml",
+        "source": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\src\\main\\res\\drawable\\mdtp_done_background_color.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_done_background_color_dark.xml",
+        "source": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\src\\main\\res\\drawable\\mdtp_done_background_color_dark.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_material_button_background.xml",
+        "source": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\src\\main\\res\\drawable\\mdtp_material_button_background.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\build\\intermediates\\res\\merged\\debug\\drawable\\mdtp_material_button_selected.xml",
+        "source": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\src\\main\\res\\drawable\\mdtp_material_button_selected.xml"
+    }
+]

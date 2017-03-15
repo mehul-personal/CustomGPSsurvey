@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="api_login" translatable="false">http://192.95.6.213/projects/myproject/webservice/login.php</string>
+    <string name="api_get_project" translatable="false">http://192.95.6.213/projects/myproject/webservice/get_projects.php</string>
+    <string name="api_get_form" translatable="false">http://192.95.6.213/projects/myproject/webservice/get_forms.php</string>
+    <string name="api_get_form_detail" translatable="false">http://192.95.6.213/projects/myproject/webservice/form_detail.php</string>
+    <string name="api_get_data" translatable="false">http://192.95.6.213/projects/myproject/webservice/get_data.php</string>
+    <string name="api_get_image" translatable="false">http://192.95.6.213/projects/myproject/webservice/get_image.php</string>
+    <string name="api_save_data" translatable="false">http://192.95.6.213/projects/myproject/webservice/save_data.php</string>
+    <string name="api_multiple_save_data" translatable="false">http://192.95.6.213/projects/myproject/webservice/save_data.php</string>
+</resources>

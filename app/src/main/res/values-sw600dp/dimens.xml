@@ -1,0 +1,77 @@
+<resources>
+    <!-- Example customization of dimensions originally defined in res/values/dimens.xml
+         (such as screen margins) for screens with more than 820dp of available width. This
+         would include 7" and 10" devices in landscape (~960dp and ~1280dp respectively). -->
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="gap_xxxlarge">29dp</dimen>
+    <dimen name="gap_xxlarge">27dp</dimen>
+    <dimen name="gap_xlarge">24dp</dimen>
+    <dimen name="gap_activity">21dp</dimen>
+    <dimen name="gap_large">16dp</dimen>
+    <dimen name="gap_medium">10dp</dimen>
+    <dimen name="gap_small">5dp</dimen>
+    <dimen name="gap_xsmall">3dp</dimen>
+    <dimen name="gap1">1dp</dimen>
+
+    <dimen name="min_touch">64dp</dimen>
+    <dimen name="touch_small">43dp</dimen>
+    <dimen name="radius_corner">5dp</dimen>
+    <dimen name="radius_more_corner">21dp</dimen>
+    <dimen name="height_button">48dp</dimen>
+    <dimen name="height_button_medium">72dp</dimen>
+    <dimen name="height_button_large">60dp</dimen>
+    <dimen name="height_button_big">144dp</dimen>
+    <dimen name="height_button_small">43dp</dimen>
+
+    <dimen name="text_large">24sp</dimen>
+    <dimen name="text_medium">21sp</dimen>
+    <dimen name="text_default">20sp</dimen>
+    <dimen name="text_small">19sp</dimen>
+    <dimen name="text_xsmall">16sp</dimen>
+    <dimen name="text_xxsmall">13sp</dimen>
+    <dimen name="text_xxxsmall">11sp</dimen>
+
+    <dimen name="gap_top_slider">20dp</dimen>
+    <dimen name="gap_dialog">40dp</dimen>
+    <dimen name="gap_activity_more">32dp</dimen>
+    <dimen name="gap_activity_large">64dp</dimen>
+    <dimen name="size_actionbar">74dp</dimen>
+    <dimen name="height_setting_item">59dp</dimen>
+    <dimen name="padding_setting_item">106dp</dimen>
+    <dimen name="height_dialog_bottom_panel">72dp</dimen>
+    <dimen name="chat_image_size">133dp</dimen>
+    <dimen name="gap_10dp">15dp</dimen>
+
+    <dimen name="gap_5">10dp</dimen>
+    <dimen name="gap_24">32dp</dimen>
+    <dimen name="gap_26">35dp</dimen>
+    <dimen name="gap_30">40dp</dimen>
+    <dimen name="gap_36">48dp</dimen>
+    <dimen name="gap_38">51dp</dimen>
+    <dimen name="gap_40">23dp</dimen>
+    <dimen name="gap_42">56dp</dimen>
+    <dimen name="gap_46">61dp</dimen>
+    <dimen name="gap_50">66dp</dimen>
+    <dimen name="gap_60">80dp</dimen>
+    <dimen name="gap_116">154dp</dimen>
+    <dimen name="gap_140">186dp</dimen>
+    <dimen name="gap_144">192dp</dimen>
+    <dimen name="gap_150">200dp</dimen>
+
+
+    <dimen name="text_30">40sp</dimen>
+    <dimen name="text_44">58sp</dimen>
+    <dimen name="text_header_style_size">30sp</dimen>
+    <dimen name="text_style_size">28sp</dimen>
+    <dimen name="text_style_height">40dp</dimen>
+
+    <dimen name="edit_style_height">60dp</dimen>
+    <dimen name="larger_edit_style_height">150dp</dimen>
+    <dimen name="edit_style_padding_left">5dp</dimen>
+    <dimen name="edit_style_padding_right">5dp</dimen>
+    <dimen name="edit_style_text_size">28sp</dimen>
+
+    <dimen name="spinner_height">60dp</dimen>
+</resources>

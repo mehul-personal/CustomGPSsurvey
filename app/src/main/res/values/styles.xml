@@ -1,0 +1,103 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:dropDownSpinnerStyle">@style/SpinnerAppTheme</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.AppCompat.Light.NoActionBar.FullScreen" parent="@style/Theme.AppCompat.Light">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="YellowCheck">
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TextStyle">
+        <item name="android:textSize">@dimen/text_style_size</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_height">@dimen/text_style_height</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+
+    <style name="HeaderStyle">
+        <item name="android:textSize">@dimen/text_header_style_size</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_height">@dimen/text_style_height</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+
+    <style name="TextWeightStyle" parent="TextStyle">
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+
+    <style name="EditStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/edit_style_height</item>
+        <item name="android:textSize">@dimen/text_style_size</item>
+        <item name="android:background">#1c2127</item>
+        <item name="android:textColorHint">@color/hintColor</item>
+        <item name="android:inputType">textShortMessage</item>
+        <item name="android:paddingLeft">@dimen/edit_style_padding_left</item>
+        <item name="android:paddingRight">@dimen/edit_style_padding_right</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="TextAreaStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/larger_edit_style_height</item>
+        <item name="android:textSize">@dimen/text_style_size</item>
+        <item name="android:background">#1c2127</item>
+        <item name="android:textColorHint">@color/hintColor</item>
+        <item name="android:inputType">textMultiLine</item>
+        <item name="android:maxLines">3</item>
+        <item name="android:paddingLeft">@dimen/edit_style_padding_left</item>
+        <item name="android:paddingRight">@dimen/edit_style_padding_right</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="RadioButtonStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/text_style_size</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="CheckboxStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/text_style_size</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="ImageStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/gap_40</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+
+    <style name="CustomDialog" parent="AppTheme.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@color/backgroung_image_overlay_color</item>
+        <item name="android:windowNoTitle">true</item>
+
+    </style>
+</resources>

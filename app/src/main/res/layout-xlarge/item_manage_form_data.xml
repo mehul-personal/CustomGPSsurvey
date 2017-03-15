@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/itemView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginRight="120dp">
+
+                <ImageView
+                    android:id="@+id/image1"
+                    android:layout_width="120dp"
+                    android:layout_height="100dp"
+                    android:layout_gravity="left"
+                    android:padding="5dp"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/ic_form_logo" />
+
+                <ImageView
+                    android:id="@+id/image2"
+                    android:layout_width="120dp"
+                    android:layout_height="100dp"
+                    android:layout_gravity="left"
+                    android:padding="5dp" android:visibility="gone"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/ic_form_logo" />
+
+                <ImageView
+                    android:id="@+id/image3"
+                    android:layout_width="120dp"
+                    android:layout_height="100dp"
+                    android:layout_gravity="left"
+                    android:padding="5dp" android:visibility="gone"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/ic_form_logo" />
+
+                <ImageView
+                    android:id="@+id/image4"
+                    android:layout_width="120dp"
+                    android:layout_height="100dp"
+                    android:layout_gravity="left"
+                    android:padding="5dp" android:visibility="gone"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/ic_form_logo" />
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/status_icon"
+                android:layout_width="120dp"
+                android:layout_height="100dp"
+                android:layout_gravity="right"
+                android:padding="5dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/ic_upload" />
+        </FrameLayout>
+
+        <TextView
+            android:id="@+id/txvFormName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center|left"
+            android:paddingLeft="10dp"
+            android:text="@string/str_user_name"
+            android:textColor="#ffffff"
+            android:textSize="38sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/colorAccent" />
+    </LinearLayout>
+</LinearLayout>

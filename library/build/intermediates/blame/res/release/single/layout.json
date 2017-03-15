@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\build\\intermediates\\res\\merged\\release\\layout\\mdtp_date_picker_dialog.xml",
+        "source": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\src\\main\\res\\layout\\mdtp_date_picker_dialog.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\build\\intermediates\\res\\merged\\release\\layout\\mdtp_time_picker_dialog.xml",
+        "source": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\src\\main\\res\\layout\\mdtp_time_picker_dialog.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\build\\intermediates\\res\\merged\\release\\layout\\mdtp_time_header_label.xml",
+        "source": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\src\\main\\res\\layout\\mdtp_time_header_label.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\build\\intermediates\\res\\merged\\release\\layout\\mdtp_year_label_text_view.xml",
+        "source": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\src\\main\\res\\layout\\mdtp_year_label_text_view.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\build\\intermediates\\res\\merged\\release\\layout\\mdtp_date_picker_view_animator.xml",
+        "source": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\src\\main\\res\\layout\\mdtp_date_picker_view_animator.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\build\\intermediates\\res\\merged\\release\\layout\\mdtp_date_picker_selected_date.xml",
+        "source": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\src\\main\\res\\layout\\mdtp_date_picker_selected_date.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\build\\intermediates\\res\\merged\\release\\layout\\mdtp_done_button.xml",
+        "source": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\src\\main\\res\\layout\\mdtp_done_button.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\build\\intermediates\\res\\merged\\release\\layout\\mdtp_time_title_view.xml",
+        "source": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\src\\main\\res\\layout\\mdtp_time_title_view.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\build\\intermediates\\res\\merged\\release\\layout\\mdtp_date_picker_header_view.xml",
+        "source": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\src\\main\\res\\layout\\mdtp_date_picker_header_view.xml"
+    }
+]

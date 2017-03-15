@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\build\\intermediates\\res\\merged\\release\\color\\mdtp_date_picker_year_selector.xml",
+        "source": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\src\\main\\res\\color\\mdtp_date_picker_year_selector.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\build\\intermediates\\res\\merged\\release\\color\\mdtp_done_text_color_dark.xml",
+        "source": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\src\\main\\res\\color\\mdtp_done_text_color_dark.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\build\\intermediates\\res\\merged\\release\\color\\mdtp_done_text_color.xml",
+        "source": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\src\\main\\res\\color\\mdtp_done_text_color.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\build\\intermediates\\res\\merged\\release\\color\\mdtp_date_picker_selector.xml",
+        "source": "G:\\AndroidStudioProjects\\CustomGPSsurvey\\library\\src\\main\\res\\color\\mdtp_date_picker_selector.xml"
+    }
+]
